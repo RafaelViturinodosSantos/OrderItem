@@ -1,0 +1,11 @@
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\bin\Debug\netcoreapp2.1\PedidosDoCliente.deps.json
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\bin\Debug\netcoreapp2.1\PedidosDoCliente.runtimeconfig.json
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\bin\Debug\netcoreapp2.1\PedidosDoCliente.runtimeconfig.dev.json
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\bin\Debug\netcoreapp2.1\PedidosDoCliente.dll
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\bin\Debug\netcoreapp2.1\PedidosDoCliente.pdb
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.csprojAssemblyReference.cache
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.AssemblyInfoInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.AssemblyInfo.cs
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.dll
+C:\Users\rafa_\Desktop\C#\Programas\PedidosDoCliente\PedidosDoCliente\obj\Debug\netcoreapp2.1\PedidosDoCliente.pdb
